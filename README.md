@@ -3,8 +3,8 @@ CMC MSU openGL project
 
 
 
-Сцена 1:
-   
+Final Scene:
+
     Кубическая текстура 
     
     Зеркальная грань
