@@ -337,7 +337,7 @@ int main()
 		normalShader.setMat4("model", model);
 		renderWall();
 
-		// Red bricks parallax mapping
+		// leaf wall parallax mapping
 		parallaxShader.use();
 		parallaxShader.setVec3("viewPosition", camera.Position);
 		//light properties
